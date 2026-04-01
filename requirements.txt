@@ -1,0 +1,6 @@
+openseespy
+matplotlib
+networkx
+scipy
+requests
+
